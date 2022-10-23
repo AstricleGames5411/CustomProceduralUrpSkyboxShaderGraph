@@ -1,0 +1,8 @@
+Note: This is all open and free! have fun with the shader!
+
+Make a sphere and parent it to your player or make the sphere follow the player and set the sphere size to 1900 on scale axis.
+
+Then remove the collider and set the material to the skybox shader in this package.
+
+And enjoy!
+
